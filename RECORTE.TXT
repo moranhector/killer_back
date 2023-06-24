@@ -1,0 +1,4 @@
+recorte.txt for
+
+
+C:\xampp\htdocs\cgpdashboard\resources\model_schemas\historialoperaciones.json
