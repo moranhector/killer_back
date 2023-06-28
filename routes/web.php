@@ -25,12 +25,9 @@ require __DIR__.'/auth.php';
 
 
 
-Route::get('historial/graficar/{mes}','App\Http\Controllers\HistorialoperacionesController@graficar') ->name('Graficos');
+
+
+Route::resource('albums', App\Http\Controllers\AlbumController::class);
 
 
 
-
-Route::resource('artesanos', App\Http\Controllers\ArtesanoController::class);
-
-
-Route::resource('historialoperaciones', App\Http\Controllers\historialoperacionesController::class);

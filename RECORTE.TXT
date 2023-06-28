@@ -2,3 +2,213 @@ recorte.txt for
 
 
 C:\xampp\htdocs\cgpdashboard\resources\model_schemas\historialoperaciones.json
+
+
+[
+    {
+        "name": "id": "s/d",
+        "dbType": "id": "s/d",
+        "htmlType": "": "s/d",
+        "validations": "": "s/d",
+        "searchable": false,
+        "fillable": false,
+        "primary": true,
+        "inForm": false,
+        "inIndex": false,
+        "inView": false
+    },
+    {
+        "name": "name": "s/d",
+        "dbType": "string": "s/d",
+        "htmlType": "text": "s/d",
+        "validations": "required": "s/d",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "spotify_id": "s/d",
+        "dbType": "string": "s/d",
+        "htmlType": "text": "s/d",
+        "validations": "required": "s/d",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "release_date": "s/d",
+        "dbType": "string": "s/d",
+        "htmlType": "text": "s/d",
+        "validations": "required": "s/d",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "tipo": "s/d",
+        "dbType": "string": "s/d",
+        "htmlType": "text": "s/d",
+        "validations": "required": "s/d",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "market": "s/d",
+        "dbType": "string": "s/d",
+        "htmlType": "text": "s/d",
+        "validations": "required": "s/d",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "images": "s/d",
+        "dbType": "string": "s/d",
+        "htmlType": "text": "s/d",
+        "validations": "required": "s/d",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "total_tracks": "s/d",
+        "dbType": "string": "s/d",
+        "htmlType": "text": "s/d",
+        "validations": "required": "s/d",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "uri": "s/d",
+        "dbType": "string": "s/d",
+        "htmlType": "text": "s/d",
+        "validations": "required": "s/d",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "genres": "s/d",
+        "dbType": "string": "s/d",
+        "htmlType": "text": "s/d",
+        "validations": "required": "s/d",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "label": "s/d",
+        "dbType": "string": "s/d",
+        "htmlType": "text": "s/d",
+        "validations": "required": "s/d",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "popularity": "s/d",
+        "dbType": "integer": "s/d",
+        "htmlType": "number": "s/d",
+        "validations": "required": "s/d",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "productor_id": "s/d",
+        "dbType": "integer": "s/d",
+        "htmlType": "number": "s/d",
+        "validations": "required": "s/d",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "cant_disc": "s/d",
+        "dbType": "integer": "s/d",
+        "htmlType": "number": "s/d",
+        "validations": "required": "s/d",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "created_at": "s/d",
+        "dbType": "timestamp": "s/d",
+        "htmlType": "": "s/d",
+        "validations": "": "s/d",
+        "searchable": false,
+        "fillable": false,
+        "primary": false,
+        "inForm": false,
+        "inIndex": false,
+        "inView": true
+    },
+    {
+        "name": "updated_at": "s/d",
+        "dbType": "timestamp": "s/d",
+        "htmlType": "": "s/d",
+        "validations": "": "s/d",
+        "searchable": false,
+        "fillable": false,
+        "primary": false,
+        "inForm": false,
+        "inIndex": false,
+        "inView": true
+    }
+]
+
+        "name": "s/d",
+        "spotify_id": "s/d",
+        "release_date": "s/d",
+        "tipo": "s/d",
+        "market": "s/d",
+        "images": "s/d",
+        "total_tracks": "s/d",
+        "uri": "s/d",
+        "genres": "s/d",
+        "label": "s/d",
+        "popularity": "s/d",
+        "productor_id": "s/d",
+        "cant_disc"
